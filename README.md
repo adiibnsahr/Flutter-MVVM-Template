@@ -2,6 +2,8 @@
 
 Template Flutter modern, skalabel, dan kaya fitur berbasis arsitektur MVVM (Model-View-ViewModel). Dirancang untuk mempermudah memulai proyek Flutter dengan fondasi yang kuat, template ini mencakup lokalisasi, mode gelap, pengujian menyeluruh, logging canggih, dan struktur modular.
 
+![Alt Text](images.jpg)
+
 ## Fitur
 
 - **Arsitektur MVVM**: Pemisahan yang jelas antara model, view model, dan view untuk kode yang terorganisir.
