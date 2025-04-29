@@ -66,13 +66,13 @@ test/
 
 1. **Klon atau salin template**:
    ```bash
-   git clone <url-repositori>
-   cd mvvm_template
+   git clone https://github.com/adiibnsahr/Flutter-MVVM-Template.git
+   cd Flutter-MVVM-Template
    ```
    Atau buat proyek Flutter baru:
    ```bash
-   flutter create mvvm_template
-   cd mvvm_template
+   flutter create Flutter-MVVM-Template
+   cd Flutter-MVVM-Template
    ```
 
 2. **Perbarui `pubspec.yaml`** dengan dependensi berikut:
@@ -80,18 +80,18 @@ test/
    dependencies:
      flutter:
        sdk: flutter
-     provider: ^6.0.0
-     google_fonts: ^6.1.0
-     logger: ^2.0.2
-     get_it: ^7.6.0
-     path_provider: ^2.1.0
+     provider: ^6.1.4
+     google_fonts: ^6.2.1
+     logger: ^2.5.0
+     get_it: ^8.0.3
+     path_provider: ^2.1.5
      flutter_localizations:
        sdk: flutter
-     intl: ^0.18.0
+     intl: ^0.19.0
    dev_dependencies:
      flutter_test:
        sdk: flutter
-     mockito: ^5.4.2
+     mockito: ^5.4.4
      build_runner: ^2.4.6
    flutter:
      generate: true
@@ -283,4 +283,4 @@ Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail.
 
 ## Penghargaan
 
-Dibuat dengan 💙 menggunakan Flutter, terinspirasi oleh kebutuhan akan template MVVM yang skalabel dan modern.
+Dibuat dengan 💙 menggunakan Flutter, terinspirasi oleh kebutuhan akan template MVVM yang skalabel dan modern. Adi Ibn Sahr 2025
